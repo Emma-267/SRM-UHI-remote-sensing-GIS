@@ -16,7 +16,7 @@ Landsat 8, Google Earth Engine and QGIS.
 
 ## Study Area
 
-![Study_Area](maps/SRM_KTR_Study_Area.png)
+![SRM_KTR_Study_Area](Maps/SRM_KTR_Study_Area.png)
 
 SRMIST Kattankulathur, Tamil Nadu, India.
 
@@ -73,11 +73,15 @@ selected study-area composite.
 
 ### LST Map
 
-![LST Map](maps/SRM_LST.png)
+![SRM_LST](Maps/SRM_LST.png)
 
 ### NDVI Map
 
-![NDVI Map](maps/SRM_NDVI.png)
+![SRM_NDVI](Maps/SRM_NDVI.png)
+
+### Relationship Between NDVI and LST
+
+![Scatter_Plot](Maps/Scatter_Plot.png)
 
 ## Tools
 
