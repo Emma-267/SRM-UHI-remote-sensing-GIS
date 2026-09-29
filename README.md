@@ -81,7 +81,7 @@ selected study-area composite.
 
 ### Relationship Between NDVI and LST
 
-![Scatter_Plot](Maps/Scatter_Plot.png)
+![Scatter_Plot](Results/Scatter_Plot.png)
 
 ## Tools
 
